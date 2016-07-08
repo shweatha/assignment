@@ -21,10 +21,9 @@ margin-top:62px;
 margin-left: 20px;
 }
 .imgs .b{
-	margin-top: 25px;
+	margin-top: 7px;
 	 margin-left: 20px;
 	 height: 250px;
-
 }
 
 #navigation li, #navigation li a:hover, #navigation li.selected a {
@@ -130,7 +129,7 @@ margin-left: 20px;
 
 }
 #contents p {
-	color: darkgreen;
+	color:  lightseagreen;
 	font-size: 18px;
 	line-height: 30px;
 	margin: 0;
