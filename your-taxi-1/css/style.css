@@ -31,7 +31,7 @@ body {
     color: #878787;
     font: 14px/20px 'Open Sans', sans-serif;
 }
- 
+
 
 .ic {
 	border:0;
@@ -132,7 +132,7 @@ ul {
     height: 45px;
     margin-top: 4px;
     margin-right: 13px;
-    background-color: #fdc903;
+    background-color: #878787;
     font: 36px/44px 'Roboto Condensed', sans-serif;
 }
 
@@ -165,7 +165,7 @@ a:hover {
 
 .btn {
     display: inline-block;
-    background-color: #fdc903;
+    background-color:#878787;
     color: #fff;
     font-size: 14px;
     line-height: 20px;
@@ -261,6 +261,7 @@ a:hover {
 
 header {
 	display: block;
+	background: #d8d8db
 }
 
 
@@ -339,7 +340,7 @@ header h1 a img {
     line-height: 24px;
     text-transform: uppercase;
     color: #fff;
-    background-color: #fdc903;
+    background-color: #878787;
 }
 
 .c_phone span {
@@ -621,7 +622,7 @@ footer {
     margin: 0 6px 0 7px;
     color: #fff;
     text-align: center;
-    background-color: #fdc903;
+    background-color: #878787;
     border-radius: 500px;
     width: 58px;
     height: 58px;

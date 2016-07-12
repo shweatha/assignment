@@ -1,9 +1,10 @@
 
 .menu_block  {
 	z-index: 999;
-	position: relative;
-	background: url(../images/menu_bg.png) 0 0 repeat-x #d8d8db;
+	position: fixed;
+	 
 	padding: 12px 0 11px;
+	margin-left: 75px;
 }
 
 
@@ -50,7 +51,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 .sf-menu>li.sfHover>a, .sf-menu>li.current>a, .sf-menu>li>a:hover {
 	color: #000;
-	background-color: #fdc903;
+	background-color: #878787;
 font-family: 'Kaushan Script', cursive;}
 
 
